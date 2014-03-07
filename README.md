@@ -1,4 +1,4 @@
-# BigDataDialog GitHub Repository Services
+# BigDataDialog Data Repository Service
 
 ## BigDataDialog Identity and Intention: 
 
