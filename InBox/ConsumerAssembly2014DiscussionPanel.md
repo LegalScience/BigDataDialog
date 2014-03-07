@@ -1,4 +1,3 @@
-
 # Consumer Assembly 2014 Discussion Panel: "Should Consumer Data Brokers be Regulated?"
 Panel Discussion: 11:00am-12:15pm EST on Thursday, March 20th
 Source: [https://www.signup4.net/public/ap.aspx?EID=CONS128E&OID=110](https://www.signup4.net/public/ap.aspx?EID=CONS128E&OID=110)      
