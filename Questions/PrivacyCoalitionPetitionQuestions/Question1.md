@@ -8,4 +8,4 @@
 
 ----
 
-**Join the emerging national discussion on this and other relevant questions at [BigDataDialog](http://bigdatadialog.org) today.**
+**Join the emerging  [BigDataDialog](http://bigdatadialog.org) on this and other relevant questions today.**
