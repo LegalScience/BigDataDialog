@@ -1,4 +1,4 @@
-* Alternative Question 1, Proposed by the Privacy Community
+**Alternative Question 1, Proposed by the Privacy Community**
 
 # "What potential harms arise from big data collection and how are these risks currently addressed?"
 
