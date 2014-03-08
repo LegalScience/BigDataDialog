@@ -1,4 +1,4 @@
-# Question 2. Government Support
+# Question 2: Government Support
 
 "What types of uses of big data could measurably improve outcomes or productivity with further government action, funding, or research? What types of uses of big data raise the most public policy concerns? Are there specific sectors or types of uses that should receive more government and/or public attention?"
 
