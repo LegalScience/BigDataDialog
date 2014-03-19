@@ -17,9 +17,10 @@
 
 ## i. Anchor Scenarios
 
-* Who are the people?
+* What are people doing?
+* What of the people?
 * What is the data?
-* What ...?
+* What rules do or should apply?
 **kkw - will you please help fix this??!!??**
 [Google Form w/Current Best Guess of Context/Scenario Template](https://docs.google.com/a/civics.com/document/d/17A8fp89gJ0MROTorrOtLENRuil5fUqNXh1OcppEwt2s/edit)
 
