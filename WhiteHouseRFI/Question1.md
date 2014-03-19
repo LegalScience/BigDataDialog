@@ -27,7 +27,7 @@ The contibutions speak to various scenarios.  The major clusters of presumed sce
 
 * What rules do or should apply?
 
-The active development on the format for describing contextual scenarios is being [developed by K Krasnow Waterman and Dazza Greenwood](https://github.com/LegalScience/BigDataDialog/blob/master/ScenariosOfContext.md) and will be merged with this section.
+The active development on the format for describing contextual scenarios is being [developed by K. Krasnow Waterman and Dazza Greenwood](https://github.com/LegalScience/BigDataDialog/blob/master/ScenariosOfContext.md) and will be merged with this section.
 
 ## ii. Instances and Examples
 
