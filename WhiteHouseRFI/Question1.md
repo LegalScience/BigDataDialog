@@ -17,6 +17,11 @@
 
 ## i. Anchor Scenarios
 
+* Who are the people?
+* What is the data?
+* What ...?
+**kkw - will you please help fix this??!!??**
+
 ## ii. Instances and Examples
 
 ## iii. Research and Media
