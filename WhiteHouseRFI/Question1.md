@@ -17,12 +17,17 @@
 
 ## i. Anchor Scenarios
 
+The contibutions speak to various scenarios.  The major clusters of presumed scenarios will be described below as the contributions come in.  
+
 * What are people doing?
+
 * What of the people?
+
 * What is the data?
+
 * What rules do or should apply?
-**kkw - will you please help fix this??!!??**
-[Google Form w/Current Best Guess of Context/Scenario Template](https://docs.google.com/a/civics.com/document/d/17A8fp89gJ0MROTorrOtLENRuil5fUqNXh1OcppEwt2s/edit)
+
+The active development on the format for describing contextual scenarios is being [developed by K Krasnow Waterman and Dazza Greenwood](https://github.com/LegalScience/BigDataDialog/blob/master/ScenariosOfContext.md) and will be merged with this section.
 
 ## ii. Instances and Examples
 
